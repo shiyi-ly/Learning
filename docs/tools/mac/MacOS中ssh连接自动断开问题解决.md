@@ -1,3 +1,4 @@
+## 在MacOS平台，使用ssh登录linux[服务器](https://cloud.tencent.com/product/cvm?from=10680)后，在后台放置一段时间，就会自动断开，解决的方法如下 
 在MacOS平台，使用ssh登录linux[服务器](https://cloud.tencent.com/product/cvm?from=10680)后，在后台放置一段时间，就会自动断开，解决的方法如下 ：
 
 ```js
