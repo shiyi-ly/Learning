@@ -1,14 +1,16 @@
 ## 目录
+- [目录](#目录)
 - [Java](#java)
-    - [基础](#基础)
+  - [基础](#基础)
 - [docker](#docker)
-    - [docker制作](#docker制作)
+  - [docker制作](#docker制作)
 - [工具](#工具)
-    - [idea工具](#idea工具)
-    - [mac工具](#mac工具)
-    - [mac好用的ftp软件](#)
-- [Netty](#Netty)
-    - [Netty协议](#netty协议)
+  - [idea工具](#idea工具)
+  - [mac工具](#mac工具)
+- [Netty](#netty)
+  - [Netty协议](#netty协议)
+- [智能应用](#智能应用)
+  - [cursor](#cursor)
 
 
 ## Java
@@ -27,3 +29,6 @@
 ## Netty
 ### Netty协议
 * [使用Netty实现自定义协议，发送与接收数据](docs/netty/%E4%BD%BF%E7%94%A8Netty%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%AE%9A%E4%B9%89%E5%8D%8F%E8%AE%AE%EF%BC%8C%E5%8F%91%E9%80%81%E4%B8%8E%E6%8E%A5%E6%94%B6%E6%95%B0%E6%8D%AE.md)
+## 智能应用
+### cursor
+* [我是CursorBot，一个智能程序员，我可以帮助你回答编程问题（免费！但愿收费来的迟亿点）](docs/%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8/cursor.md)
